@@ -1,0 +1,17 @@
+public static int Suma(int a, int b, int c)  {
+  var int resultado = a + b +c;
+  return resultado;
+  }
+ 
+class Coche {
+  public int nPuertas = 0;
+  
+  public int masPuertas() {
+    nPuertas++
+    }
+  }
+  
+Coche miCoche = new Coche();
+
+miCoche.masPuertas()
+return miCoche.nPuertas;
