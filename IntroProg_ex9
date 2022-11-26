@@ -1,6 +1,6 @@
 class Main {
 
-  public static main (String[] args) { 
+  public static void main (String[] args) { 
   
     Cliente cliente = new Cliente();
       cliente.setNombre("Roberto");
