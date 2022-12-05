@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Ejercicio 1</title>
+  </head>
+  
+  <body>
+  
+      <!-- Este es mi primer comentario de dos líneas
+      Aprendiendo a documentar mi código con OpenBootcamp -->
+       
+      <div>
+        <h1>Mis videos favoritos</h1>
+        <ul>
+          <li>Video 1 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">Never Gonna Give You Up</a></li>
+          <li>Video 2 <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk&ab_channel=LofiGirl">Lofi HipHop</a></li>
+          <li>Video 3 <a href="https://www.youtube.com/watch?v=Eu6Qf5DsQ54&ab_channel=EscueladeNada">Escuela de Nada</a></li>
+        </ul>
+      </div>
+    
+  </body>
+</html>
